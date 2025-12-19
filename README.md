@@ -1,7 +1,7 @@
-# 💫 About Me:
-Unreal Engine C++ Programmer specializing in Physics
+# 💫 Admil!
+Polish Unreal Engine C++ Physics programmer.
 
-Currently working on Room 1801, Co-op horror in a hotel with your friends! More soon!
+Currently working on Room 1801, a co-op couch horror hotel experience with your friends!
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/admil.chimpanzee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/admil.chimp) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://x.com/admilchimpanzee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/admilchimpanzee) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@official.schizophreniac) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:a.bozomanski@gmail.com) 
 
