@@ -1,5 +1,6 @@
 # 💫 Admil!
-Polish Unreal Engine C++ Physics programmer.
+## Hello!
+I'm Admil, a Polish programmer studying Game Design at the University of South Wales
 
 Currently working on Room 1801, a co-op couch horror hotel experience with your friends!
 ## 🌐 Socials:
